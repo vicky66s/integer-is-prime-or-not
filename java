@@ -1,6 +1,6 @@
 public class PrimeChecker {
     public static boolean isPrime(int number) {
-        // Check if the number is prime or not;
+        // Check if the number is prime or not;021
         
         if (number <= 1) {
             return false; // If the number is less than or equal to 1, it's not prime
