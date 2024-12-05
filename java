@@ -1,4 +1,4 @@
-// 01
+// 012
 public class PrimeChecker {
     public static boolean isPrime(int number) {
         // Check if the number is prime or not;
